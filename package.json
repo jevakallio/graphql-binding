@@ -1,5 +1,5 @@
 {
-  "name": "graphql-binding",
+  "name": "@jevakallio/graphql-binding",
   "version": "1.4.0-beta.29",
   "license": "MIT",
   "repository": "git@github.com:graphcool/graphql-binding.git",
